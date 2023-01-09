@@ -1,0 +1,5 @@
+*.vti
+*.vtu
+*.json
+*.raw
+.DS_Store
